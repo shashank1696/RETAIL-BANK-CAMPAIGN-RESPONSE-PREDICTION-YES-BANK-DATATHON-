@@ -23,3 +23,7 @@ The data given is of campaigns run by a retail bank. Objective of the problem is
 16) previous_contact: Number of previous contacts on the previous marketing campaign
 17) outcome_of_the_campaign: Categorical variable that describes the outcome of the previous campaign.
 18) outcome: Binary outcome of the current campaign.
+
+## Conclusions:
+1) Using Logistic Regression Algorithm = 97.93% accuracy(Prediction Problem).
+2) K-Means Algorithm = 44.45% accuracy(Classification problem).
