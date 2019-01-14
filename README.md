@@ -18,7 +18,7 @@ The data given is of campaigns run by a retail bank. Objective of the problem is
 11) date: Day of the month on which the individual was contacted.
 12) month_of_year: Categorical variable which describes the month of the year on which the individual was contacted.
 13) call_duration: Contact duration in number of seconds on the last campaign call.
-14) campaign_contacts: Number of days from the previous campaign after which the individual was contacted. -1 signifies that no previous contact is on record.
+14) campaign_contacts: Number of days from the previous campaign after which the individual was contacted. -1 signifies that no previous       contact is on record.
 15) days_passed: Total number of contacts to this individual before the current campaign started.
 16) previous_contact: Number of previous contacts on the previous marketing campaign
 17) outcome_of_the_campaign: Categorical variable that describes the outcome of the previous campaign.
