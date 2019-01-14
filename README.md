@@ -95,10 +95,11 @@ The data given is of campaigns run by a retail bank. Objective of the problem is
 
 ## Objective of the Classification Problem:
 As per predictions in the prediction problem. The objective of this problem is to predict the cluster number of serial number variable. 
-Cluster number 1 (Correct value is 1) : When the value of credit_amount is between 4000 and 20000 
-Cluster number 2 (Correct value is 2): When the value of credit_amount is between 4000 and 1500 
-Cluster number 3 (Correct value is 3) : When the value of credit_amount is less than 1500
-Evaluation Metric : Accuracy
+- Cluster number 1 (Correct value is 1) : When the value of credit_amount is between 4000 and 20000.
+- Cluster number 2 (Correct value is 2) : When the value of credit_amount is between 4000 and 1500.
+- Cluster number 3 (Correct value is 3) : When the value of credit_amount is less than 1500.
+
+- Evaluation Metric : Accuracy
 
 ## Fitting a Line for Prediction Problem:
 ![yesbank1](https://user-images.githubusercontent.com/44108439/51101043-f28d7680-17fe-11e9-87b4-4aa9c22441cf.png)
