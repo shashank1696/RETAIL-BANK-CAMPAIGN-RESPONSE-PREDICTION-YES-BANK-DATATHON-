@@ -24,6 +24,10 @@ The data given is of campaigns run by a retail bank. Objective of the problem is
 17) outcome_of_the_campaign: Categorical variable that describes the outcome of the previous campaign.
 18) outcome: Binary outcome of the current campaign.
 
+## Fitting a Line for Prediction Problem:
+![yesbank1](https://user-images.githubusercontent.com/44108439/51101043-f28d7680-17fe-11e9-87b4-4aa9c22441cf.png)
+
+## Elbow Curve for Classification Problem:
 ## Conclusions:
 1) Using Logistic Regression Algorithm an accuracy of 97.93% is obtained for the Prediction Problem.
 2) Using K-Means Algorithm an accuracy of 44.45% is obtained for the Classification problem.
