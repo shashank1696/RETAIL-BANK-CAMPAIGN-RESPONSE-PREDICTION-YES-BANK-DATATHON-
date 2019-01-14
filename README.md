@@ -32,4 +32,4 @@ The data given is of campaigns run by a retail bank. Objective of the problem is
 
 ## Conclusions:
 1) Using Logistic Regression Algorithm an accuracy of 97.93% is obtained for the Prediction Problem.
-2) Using K-Means Algorithm an accuracy of 44.45% is obtained for the Classification problem.
+2) Using K-Means Algorithm an accuracy of 43.55% is obtained for the Classification problem.
