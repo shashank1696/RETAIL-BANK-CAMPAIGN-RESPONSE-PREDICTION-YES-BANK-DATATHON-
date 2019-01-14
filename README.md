@@ -79,19 +79,19 @@ The data given is of campaigns run by a retail bank. Objective of the problem is
 - A143 signifies that no information is present
 
 - A151 signifies that the housing is on rent
-A152 signifies that the housing is owned by the applicant
-A153 signifies that no loan amount is present on the housing and there is no expense for the housing) 
+- A152 signifies that the housing is owned by the applicant
+- A153 signifies that no loan amount is present on the housing and there is no expense for the housing) 
 
-A171 signifies that the individual is unemployed or unskilled and is a non-resident
-A172 signifies that the individual is unskilled but is a resident
-A173 signifies that the individual is a skilled employee or official
-A174 signifies that the individual is involved in management or is self-employed or a highly qualified employee or officer
+- A171 signifies that the individual is unemployed or unskilled and is a non-resident
+- A172 signifies that the individual is unskilled but is a resident
+- A173 signifies that the individual is a skilled employee or official
+- A174 signifies that the individual is involved in management or is self-employed or a highly qualified employee or officer
 
-A191 signifies that no telephonic records are present
-A192 signifies that a telephone is registered with the customer’s name
+- A191 signifies that no telephonic records are present
+- A192 signifies that a telephone is registered with the customer’s name
 
-A201 signifies that the individual is a foreigner
-A202  signifies that the individual is a resident
+- A201 signifies that the individual is a foreigner
+- A202  signifies that the individual is a resident
 
 ## Objective of the Classification Problem:
 As per predictions in the prediction problem. The objective of this problem is to predict the cluster number of serial number variable. 
