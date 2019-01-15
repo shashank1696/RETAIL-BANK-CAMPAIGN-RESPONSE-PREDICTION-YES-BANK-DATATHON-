@@ -31,14 +31,17 @@ The data given is of campaigns run by a retail bank. Objective of the problem is
 - A12 signifies greater than 0 (including 0) and lesser than 200 (excluding 200) units of currency
 - A13 signifies amount greater than 200 (including 200) being recorded in the account
 - A14 signifies no account details provided
-- c. duration_month : Duration in months for which the credit is existing
-- d. credit_history : This categorical variable signifies the credit history of the individual who has taken the loan
+
+- c. duration_month : Duration in months for which the credit is existing.
+
+- d. credit_history : This categorical variable signifies the credit history of the individual who has taken the loan.
 
 - A30 signifies that no previous loans has been taken or all loans taken have been payed back.
 - A31 signifies that all loans from the current bank has been payed off. Loan information of other banks are not available.
 - A32 signifies loan exists but till now regular installments have been payed back in full amount.
 - A33  signifies that significant delays have been seen in repayment of loan installments.
 - A34 signifies other loans exist at the same bank. Irregular behaviour in repayment.
+
 - e. purpose: This variable signifies why the loan was taken
 
 - A40 signifies that the loan is taken to buy a new car
@@ -52,6 +55,7 @@ The data given is of campaigns run by a retail bank. Objective of the problem is
 - A48 signifies that the loan is taken for re-skilling
 - A49 signifies that the loan is taken for business and establishment
 - A410 signifies other purposes
+
 - f. credit_amount: The numerical variable signifies the amount credited to the individual (in units of a certain currency)
 
 - g. savings_account: This variable signifies details of the amount present in savings account of the individual:
@@ -60,43 +64,44 @@ The data given is of campaigns run by a retail bank. Objective of the problem is
 - A62 signifies that greater than 100 units (including 100) and less than 500 (excluding 500) units of currency is present
 - A63 signifies that greater than 500 (including 500) and less than 1000 (excluding 1000) units of currency is present.
 - A64 signifies that greater than 1000 (including 1000) units of currency is present.
-A65 signifies that no savings account details is present on record
-h. employment_st: Categorical variable that signifies the employment status of everyone who has been alloted loans
+- A65 signifies that no savings account details is present on record
 
-A71 signifies that the individual is unemployed
-A72 signifies that the individual has been employed for less than a year
-A73 signifies that the individual has been employed for more than a year but less than four years
-A74 signifies that the individual has been employed more than four years but less than seven years
-A75 signifies that the individual has been employed for more than seven years
+- h. employment_st: Categorical variable that signifies the employment status of everyone who has been alloted loans
 
-i. poi: This numerical variable signifies what percentage of disposable income is spent on loan interest amount.
+- A71 signifies that the individual is unemployed
+- A72 signifies that the individual has been employed for less than a year
+- A73 signifies that the individual has been employed for more than a year but less than four years
+- A74 signifies that the individual has been employed more than four years but less than seven years
+- A75 signifies that the individual has been employed for more than seven years
 
-j. personal_status: This categorical variable signifies the personal status of the individual
+- i. poi: This numerical variable signifies what percentage of disposable income is spent on loan interest amount.
 
-A91 signifies that the individual is a separated or divorced male
-A92 signifies female individuals who are separated or divorced
-A93 signifies unmarried males
-A94 signifies married or widowed males
-A95 signifies single females
+- j. personal_status: This categorical variable signifies the personal status of the individual
 
-k. gurantors: Categorical variable which signifies if any other individual is involved with an individual loan case
+- A91 signifies that the individual is a separated or divorced male
+- A92 signifies female individuals who are separated or divorced
+- A93 signifies unmarried males
+- A94 signifies married or widowed males
+- A95 signifies single females
 
-A101 signifies that only a single individual is involved in the loan application
-A102 signifies that one or more co-applicant is present in the loan application
-A103 signifies that gurantors are present.
+- k. gurantors: Categorical variable which signifies if any other individual is involved with an individual loan case
 
-l. resident_since: Numerical variable that signifies for how many years the applicant has been a resident
+- A101 signifies that only a single individual is involved in the loan application
+- A102 signifies that one or more co-applicant is present in the loan application
+- A103 signifies that gurantors are present.
 
-m. property_type: This qualitative variable defines the property holding information of the individual
+- l. resident_since: Numerical variable that signifies for how many years the applicant has been a resident
 
-A121 signifies that the individual holds real estate property
-A122 signifies that the individual holds a building society savings agreement or life insurance
-A123 signifies that the individual holds cars or other properties
-A124 signifies that property information is not available
+- m. property_type: This qualitative variable defines the property holding information of the individual
 
-n. age: Numerical variable that signifies age in number of years
+- A121 signifies that the individual holds real estate property
+- A122 signifies that the individual holds a building society savings agreement or life insurance
+- A123 signifies that the individual holds cars or other properties
+- A124 signifies that property information is not available
 
-o. installment_type: This variable signifies other installment types taken
+- n. age: Numerical variable that signifies age in number of years
+
+- o. installment_type: This variable signifies other installment types taken
 
 A141 signifies installment to bank
 A142 signifies installment to outlets or stores
