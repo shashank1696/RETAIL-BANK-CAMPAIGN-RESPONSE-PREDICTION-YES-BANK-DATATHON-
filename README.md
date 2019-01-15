@@ -2,7 +2,7 @@
 Predicting campaign response of retail bank to build an effective strategy for targeting customers for future campaigns using Logistic Regression and K- Means Algorithm.
 
 ## Data Description:
-The data given is of campaigns run by a retail bank. Objective of the problem is to predict the categorical outcome of each entity in the test data set. “outcome” variable is to be predicted as per “serial_number” variable of the test data set. From exploratory data analysis, it is seen that the data is imbalanced. The percentage of positive class in target variable is 5.8% which is vary low. Imbalaced data leads to baised model so we need to consider oversampling methods to get rid of this problem.
+The data given is of campaigns run by a retail bank. Objective of the problem is to predict the categorical outcome of each entity in the test data set. “outcome” variable is to be predicted as per “serial_number” variable of the test data set. From exploratory data analysis, it is seen that the data is imbalanced. The percentage of positive class in target variable is 5.8% which is very low. Imbalanced data leads to baised model; a simple way to fix imbalanced data-sets is simply to balance them, either by oversampling instances of the minority class or undersampling instances of the majority class. We need to consider oversampling methods to get rid of this problem.
 
 ## Variables:
 1)  serial_number: Unique identifier for each entity.
