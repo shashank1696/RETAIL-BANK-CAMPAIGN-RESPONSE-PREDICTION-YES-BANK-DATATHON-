@@ -24,7 +24,7 @@ The data given is of campaigns run by a retail bank. Objective of the problem is
 17) outcome_of_the_campaign: Categorical variable that describes the outcome of the previous campaign.
 18) outcome: Binary outcome of the current campaign.
 
-- a. serial number : unique identification key.
+- a. serial number : unique identification key for each entity.
 - b. account_info : Categorized details of existing accounts of the individuals. The balance of money in account provided is stated by        this variable.
 
 - A11 signifies 0 (excluding 0) or lesser amount credited to current checking account. (Amounts are in units of certain currency).
